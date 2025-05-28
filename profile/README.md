@@ -24,6 +24,7 @@ We specialize in developing a wide range of trading tools, including:
 | `leveling_tool`   | A modular library of custom and standard technical indicators. | 🚧 In progress     |
 | `trading-view-api`  | Real-time market data normalization and distribution engine. | 🚧 In progress     |
 | `backtesting_tool`        | Visual tool for designing and simulating trading strategies. | 🚧 In progress |
+| `Graph API`        | Tool that generate charts based on signals from the Trading Bot. | 🚧 In progress |
 
 ---
 
