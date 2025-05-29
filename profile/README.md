@@ -25,6 +25,7 @@ We specialize in developing a wide range of trading tools, including:
 | `trading-view-api`  | Real-time market data normalization and distribution engine. | 🚧 In progress     |
 | `backtesting_tool`        | Visual tool for designing and simulating trading strategies. | 🚧 In progress |
 | `graph_api_hft`        | Tool that generate charts based on signals from the Trading Bot. | 🚧 In progress |
+| `correlation-modelling`        | AI Model that generates the best positive and negative correlations for Nasdaq. | 🚧 In progress |
 
 ---
 
