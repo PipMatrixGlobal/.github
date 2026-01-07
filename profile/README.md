@@ -1,6 +1,6 @@
-# 📈 Welcome to PipMatrix
+# 📈 Welcome to TradeZara
 
-At **PipMatrix**, we build intelligent tools for **traders**, **investors**, and **market analysts**.  
+At **TradeZara**, we build intelligent tools for **traders**, **investors**, and **market analysts**.  
 Our mission is to empower the trading community with cutting-edge technology, real-time data, automation, and a unified trading ecosystem.
 
 ---
@@ -34,7 +34,7 @@ We develop a complete suite of trading technology:
 
 | Project                   | Description                                                                 | Status        |
 |---------------------------|-----------------------------------------------------------------------------|---------------|
-| `pip-matrix`              | Main platform website. Connects the entire PipMatrix ecosystem.             | 🚧 In progress |
+| `pip-matrix`              | Main platform website. Connects the entire TradeZara ecosystem.             | 🚧 In progress |
 | `trading-view-ws`         | Real-time data normalization + WebSocket engine for multi-exchange feeds.   | ✅ Done        |
 | `backtesting-framework`   | Visual strategy builder + backtesting engine. Includes automated trading bots. | 🚧 In progress |
 
@@ -70,10 +70,10 @@ Together, these components form a fully modular trading automation ecosystem whe
 
 Have questions or want to collaborate?
 
-- 🌐 Website: https://www.pipmatrix.com  
-- 📧 Email: contact@pipmatrix.com  
+- 🌐 Website: https://www.TradeZara.com  
+- 📧 Email: contact@TradeZara.com  
 - 💬 Socials (Twitter, LinkedIn, Discord) — coming soon  
 
 ---
 
-> _"The market rewards discipline. We build the tools."_ — **PipMatrix**
+> _"The market rewards discipline. We build the tools."_ — **TradeZara**
